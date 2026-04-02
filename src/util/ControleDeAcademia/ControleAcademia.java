@@ -1,4 +1,4 @@
-package util.ControleAcademia;
+package util.ControleDeAcademia;
 
 // controle dos alunos que podem treinar numa academia
 
